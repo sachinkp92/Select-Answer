@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Monoton&family=Open+Sans:wght@400;700&family=Playfair+Display+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Work+Sans:wght@400;700&display=swap");
+
+.bg-container {
+    background-color: rgb(175, 66, 66);
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    height: 100vh;
+}
+
+.selection-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin: 10px;
+    height: 400px;
+}
+
+.question-title {
+    font-family: Bree Serif;
+    color: black;
+    padding: 20px;
+    font-size: 24px;
+}
+
+.option-title {
+    color: black;
+}
+
+.result-msg {
+    font-family: "Bree Serif";
+    font-size: 18px;
+}
